@@ -1,9 +1,14 @@
 Part 1: GitHub Tasks
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 1️⃣ Repository Setup
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   Created two repositories on GitHub:   
+
+
+   Created two repositories on GitHub:  
+   
      • One Public Repository
+
+     
      • One Private Repository
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20public-repo.png)
