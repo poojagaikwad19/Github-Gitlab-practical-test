@@ -5,6 +5,7 @@ Project Overview
 
 This practical assignment demonstrates my understanding of Git, GitHub, and GitLab workflows used in DevOps teams.
 The goal of this task was to perform repository setup, branching, collaboration workflow using Pull Requests, GitLab repository setup using SSH, repository mirroring between GitLab and GitHub, and access control using roles.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Objective:
@@ -12,20 +13,32 @@ Objective:
 To ensure smooth development workflow and collaboration between GitHub and GitLab by performing:
 
 1.Repository creation (public + private)
+
 2.Local development and branch management
+
 3.Pull request workflow (dev → main)
+
 4.GitLab private repo setup using SSH
+
 5.GitHub ↔ GitLab repository mirroring
+
 6.GitLab access control with roles (Guest → Developer)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 Tools & Technologies Used
 
 Git
+
 GitHub
+
 GitLab
+
 SSH Authentication
+
 Repository Mirroring
+
 Branching & Pull Requests
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Part 1: Github Task
 
