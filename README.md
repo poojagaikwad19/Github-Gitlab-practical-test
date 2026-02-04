@@ -92,7 +92,7 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20create%202%20dir%20mirror.png)
 
-![image alt]()
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20display%20mirror%20changes%20on%20gitlab.png)
 
 ![image alt]()
 
