@@ -37,3 +37,5 @@ Clone Repositories
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20public%20index.html.png)
 
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20private%20index.html.png)
+
