@@ -57,6 +57,8 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20public%20dev%20branch.png)
 
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1n%20priavte%20main%20branch.png)
+
 
 
 
