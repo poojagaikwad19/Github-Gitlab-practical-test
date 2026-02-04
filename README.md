@@ -110,13 +110,9 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control-guest.png)
 
-![image alt]()
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control%20change%20role%20from%20guest%20to%20devloper.png)
 
-![image alt]()
 
-![image alt]()
-
-![image alt]()
 
 
 
