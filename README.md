@@ -105,6 +105,8 @@ Steps performed:
     1.Invited a friend to GitLab repository
    
     2.Assigned role as Guest
+
+    3.Then change their role to Developer, and let them push one file
    
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control.png)
 
