@@ -22,13 +22,13 @@ Steps performed:
 
   In private repo:
 
-    Created a branch: dev
+   Created a branch: dev
 
-    Added files in Main Branch: index.html, readme.md
+   Added files in Main Branch: index.html, readme.md
 
-    Made at least two commits
+   Made at least two commits
 
-    Pushed dev branch to GitHub
+   Pushed dev branch to GitHub
 
 📸 Screenshots:
 
@@ -68,17 +68,17 @@ Part 2: GitLab Tasks
 
 Steps performed:
 
-  Created a private repository on GitLab
+   Created a private repository on GitLab
   
-  Cloned it using SSH (not HTTPS)
+   Cloned it using SSH (not HTTPS)
   
-  SSH Token
+   SSH Token
   
-  Created project structure:
+   Created project structure:
   
-      src/app.py
+       src/app.py
       
-      docs/guide.md
+       docs/guide.md
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20pvt-repo.png)
 
