@@ -96,7 +96,20 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20gitlabbb%20mirr.png)
 
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20githubbb%20mirr.png)
+
 ![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
 
 
 
