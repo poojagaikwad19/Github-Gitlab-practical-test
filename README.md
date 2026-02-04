@@ -97,7 +97,15 @@ Steps performed:
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20gitlabbb%20mirr.png)
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20githubbb%20mirr.png)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6️⃣ Access Control (Guest)
 
+Steps performed:
+
+   Invited a friend to GitLab repository
+   
+   Assigned role as Guest
+   
 ![image alt]()
 
 ![image alt]()
