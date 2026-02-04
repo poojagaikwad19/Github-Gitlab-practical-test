@@ -39,3 +39,17 @@ Clone Repositories
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20private%20index.html.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3️⃣ Collaboration Workflow
+Steps performed:
+
+  Created a Pull Request to merge main → dev
+  Reviewed and merged the PR
+  Verified changes in dev branch
+📸 Screenshots:
+
+
+
+
+Pull Request Created
+
