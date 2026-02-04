@@ -48,6 +48,8 @@ Steps performed:
   Verified changes in dev branch
 📸 Screenshots:
 
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20public%20main-branch.png)
+
 
 
 
