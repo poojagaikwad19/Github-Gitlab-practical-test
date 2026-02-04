@@ -102,11 +102,11 @@ Steps performed:
 
 Steps performed:
 
-   Invited a friend to GitLab repository
+    Invited a friend to GitLab repository
    
-   Assigned role as Guest
+    Assigned role as Guest
    
-![image alt]()
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control.png)
 
 ![image alt]()
 
