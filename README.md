@@ -94,8 +94,7 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20display%20mirror%20changes%20on%20gitlab.png)
 
-![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e23ba41c-3526-4885-8582-be908548d249" />
-)
+![image alt]()
 
 ![image alt]()
 
