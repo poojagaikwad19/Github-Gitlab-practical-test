@@ -98,7 +98,7 @@ Part 2: GitLab Tasks
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20githubbb%20mirr.png)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-6️⃣ Access Control (Guest)
+6️⃣ Access Control 
 
 Steps performed:
 
@@ -113,7 +113,11 @@ Steps performed:
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control-guest.png)
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control%20change%20role%20from%20guest%20to%20devloper.png)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅Final Outcome
 
+
+At the end of this practical assignment, successful collaboration workflows were established on both GitHub and GitLab. Repositories were properly created and managed, branching and pull request workflows were implemented, and access control was configured using role-based permissions. Repository mirroring between GitLab and GitHub was successfully set up, ensuring automatic synchronization of changes across platforms.
 
 
 
