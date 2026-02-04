@@ -29,6 +29,7 @@ Made at least two commits
 Pushed dev branch to GitHub
 
 📸 Screenshots:
-![image alt]()
+
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20public-clone.png)
 
 Clone Repositories
