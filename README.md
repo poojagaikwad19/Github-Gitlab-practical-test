@@ -108,7 +108,7 @@ Steps performed:
    
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control.png)
 
-![image alt]()
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control-guest.png)
 
 ![image alt]()
 
