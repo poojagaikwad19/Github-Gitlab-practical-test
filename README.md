@@ -12,6 +12,7 @@ Part 1: Github Task
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20private-repo%20(2).png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2️⃣ Local Development (Private Repo)
 
 Steps performed:
