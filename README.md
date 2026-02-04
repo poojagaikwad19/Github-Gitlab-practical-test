@@ -82,7 +82,7 @@ Steps performed:
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20gitlab-mirror.png)
 
-![image alt]()
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20github-mirror.png)
 
 ![image alt]()
 
