@@ -80,8 +80,12 @@ Steps performed:
       
        docs/guide.md
 
-![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20pvt-repo.png)
+![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20gitlab-mirror.png)
 
+![image alt]()
 
+![image alt]()
+
+![image alt]()
 
 
