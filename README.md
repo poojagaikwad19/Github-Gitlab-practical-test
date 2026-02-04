@@ -16,17 +16,17 @@ Part 1: Github Task
 
 Steps performed:
 
-Cloned both repositories using HTTPS
+  Cloned both repositories using HTTPS
 
-In private repo:
+  In private repo:
 
-Created a branch: dev
+    Created a branch: dev
 
-Added files in Main Branch: index.html, readme.md
+    Added files in Main Branch: index.html, readme.md
 
-Made at least two commits
+    Made at least two commits
 
-Pushed dev branch to GitHub
+    Pushed dev branch to GitHub
 
 📸 Screenshots:
 
