@@ -18,17 +18,17 @@ Part 1: Github Task
 
 Steps performed:
 
-  Cloned both repositories using HTTPS
+   1.Cloned both repositories using HTTPS
 
-  In private repo:
+   2.In private repo:
 
-   Created a branch: dev
+       Created a branch: dev
 
-   Added files in Main Branch: index.html, readme.md
+       Added files in Main Branch: index.html, readme.md
 
-   Made at least two commits
+       Made at least two commits
 
-   Pushed dev branch to GitHub
+       Pushed dev branch to GitHub
 
 📸 Screenshots:
 
@@ -40,16 +40,16 @@ Clone Repositories
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20private%20index.html.png)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3️⃣ Collaboration Workflow
 
-Steps performed:
+ Steps performed:
 
-  Created a Pull Request to merge main → dev
+     1.Created a Pull Request to merge main → dev
   
-  Reviewed and merged the PR
+     2.Reviewed and merged the PR
   
-  Verified changes in dev branch
+     3.Verified changes in dev branch
   
 📸 Screenshots:
 
@@ -60,25 +60,25 @@ Steps performed:
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1n%20priavte%20main%20branch.png)
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task1%20private%20dev%20branch.png)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Part 2: GitLab Tasks
 
 4️⃣ GitLab Repository Setup
 
-Steps performed:
+   Steps performed:
 
-   Created a private repository on GitLab
+     1.Created a private repository on GitLab
   
-   Cloned it using SSH (not HTTPS)
+     2.Cloned it using SSH (not HTTPS)
   
-   SSH Token
+     3.SSH Token
   
-   Created project structure:
+     4.Created project structure:
   
-       src/app.py
+         src/app.py
       
-       docs/guide.md
+         docs/guide.md
 
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20gitlab-mirror.png)
 
@@ -102,9 +102,9 @@ Steps performed:
 
 Steps performed:
 
-    Invited a friend to GitLab repository
+    1.Invited a friend to GitLab repository
    
-    Assigned role as Guest
+    2.Assigned role as Guest
    
 ![image alt](https://github.com/poojagaikwad19/Github-Gitlab-practical-test/blob/main/task2%20access-control.png)
 
