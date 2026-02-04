@@ -1,6 +1,6 @@
 Part 1: Github Task
 
-1.Repository Setup
+1️⃣ Repository Setup
 
   Create two repositories on GitHub:
   
